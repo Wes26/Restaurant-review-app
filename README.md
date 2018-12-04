@@ -1,6 +1,6 @@
 # Mobile Web Specialist Certification Course
 ----
-## Project Overview: Stage 1
+### Project Overview: Stage 1
 ----
 Developed with CSS Grid and ARIA to make a friendly responsivie Web Accessible PWA.   
 
